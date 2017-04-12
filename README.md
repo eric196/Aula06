@@ -7,8 +7,11 @@ Perforce
 CVS;
 Source Safe;
 Bazaar;
-SVN;
 Mercurial;
 Clear Case;
+SVN;
 GitHub;
+Clear Case;
+Mercurial;
+Perforce
 Visual Studio Team Services;

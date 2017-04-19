@@ -8,3 +8,9 @@ O Poderoso Chefão (1972)
 12 anos de escravidão
 7 vidas
 Os intocaveis 
+
+titanic (1997)
+
+furia em duas rodas
+
+velozes e furiosos
